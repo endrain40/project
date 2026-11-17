@@ -1,0 +1,72 @@
+
+body {
+    background-color: rgb(255, 249, 241);
+}
+
+h1 {
+    background-color: antiquewhite;
+    border: 2px chocolate solid;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.activity {
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px black solid;
+    margin-bottom: 10px;
+    gap: 5px;
+    background-color: white;
+    
+}
+
+.activity2 {
+border-right: 3px black solid;
+border-left: 3px black solid;
+width: 20%;
+height: 220px;
+padding: 5px;
+}
+
+.activity3 {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+#button {
+    font-size: 20px;
+    background-color: chocolate;
+    color: bisque;
+    border-radius: 10px;
+    width:100px;
+    height: 50px;
+    border-color: rgb(85, 38, 2);
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+    
+
+    .acti_photo {
+        width: 200px;
+    }
+
+    .contact {
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+    p {
+        width: 100%;
+        box-sizing: border-box;
+        overflow-wrap: break-word;
+    }
+    
